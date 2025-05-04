@@ -1,0 +1,17 @@
+*{
+  font-family: sans-serif;
+}
+
+.card{
+  background-color: rgb(170, 69, 170);
+  border: 2px solid purple;
+  width: 250px;
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
